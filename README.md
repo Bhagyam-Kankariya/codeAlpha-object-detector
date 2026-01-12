@@ -95,6 +95,3 @@ Improve UI/UX
 
 Just fork, branch, commit, and open a PR.
 
-📄 License
-
-Include your license here (e.g., MIT). If you don’t have one, consider adding an open-source license.
